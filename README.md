@@ -2,6 +2,6 @@
 <html>
   <body>
     <h1> Simon Minchev </h1>
-    <h3>Ученик в 11в клас </h3>
+    <p>Ученик в 11в клас </p>
   </body>
 </html>
