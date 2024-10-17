@@ -6,5 +6,6 @@
 <div style="position: relative; display: inline-block;">
     <img src="вашето-изображение.jpg" alt=" " style="width: 300px; height: auto;">
     <div style="position: absolute; bottom: 10px; left: 10px; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px;">
+      <a href="https://www.example.com" target="_blank">[Текст на линка](https://chatgpt.com/)</a>
 </body>
 </html>
