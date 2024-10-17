@@ -1,11 +1,26 @@
 <!DOCTYPE html>
 <html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
 <body>
-  <h1 color=":red;"> Simon </h1>
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://sportenkalendar.bg/media/cache/event_hd_thumbs/uploads/sports/tennis-gea07a0438-1920-626e4805d4fd2953927582.jpg.webp" width="590" height="620 ">
-<div style="position: relative; display: inline-block;">
-    <img src="вашето-изображение.jpg" alt=" " style="width: 300px; height: auto;">
-    <div style="position: absolute; bottom: 10px; left: 10px; color: white; background-color: rgba(0, 0, 0, 0.5); padding: 5px;">
-      <a href="https://www.example.com" target="_blank">[Текст на линка](https://chatgpt.com/)</a>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
